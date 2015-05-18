@@ -20,3 +20,5 @@ export LSCOLORS=GxFxCxDxBxegedabagaced
 #aliases
 alias webroot='cd /var/www/html/'
 alias modifyhost='sudo vim /etc/hosts'
+alias modifybash='sudo vim ~/.bash_profile'
+alias cpwd='pwd | pbcopy'
